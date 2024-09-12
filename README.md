@@ -1,7 +1,5 @@
 # NextJs-Messenger-Clone
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTasin5541%2FNextJs-Messenger-Clone&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
 A fully responsive real-time chat app made with NextJs 13 (app router), MongoDB, Tailwind CSS, Pusher, Next-Auth and Cloudinary.
 
 <p align="center"> 
@@ -16,10 +14,6 @@ A fully responsive real-time chat app made with NextJs 13 (app router), MongoDB,
 - **[Next-Auth](https://next-auth.js.org/)** (4.x)
 - **[Typescript](https://www.typescriptlang.org/)** (5.x)
 - Production build script
-
-## Live Demo
-
-See a [live demo](https://nextjs-messenger-clone-tasin5541.vercel.app/) on Vercel
 
 ## Features
 
